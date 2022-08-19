@@ -1,1 +1,1 @@
-# mygallery.ocm
+# mygallery
